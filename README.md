@@ -9,7 +9,7 @@ In this assignment, we were required to create a fun and interactive game for we
 Click on the following link to preview the completed assignment.  
   https://bronzeowl.github.io/week-4-game/
 
-Crystal Collector 
+*Crystal Collector* 
 
 Instructions:
 
