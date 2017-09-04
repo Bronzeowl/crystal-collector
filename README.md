@@ -1,4 +1,4 @@
-# week-4-game
+# crystal-collector
 
 This is the fourth assignment for the Houston Coding Bootcamp Delivered by UT Austin.
 
