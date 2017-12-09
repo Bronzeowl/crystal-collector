@@ -16,7 +16,7 @@ You win the game by matching your total score to the random number. You lose the
 The value of each crystal is hidden from you until you click on it.
 
 Click on the following link to preview the completed assignment.  
-  https://bronzeowl.github.io/week-4-game/
+  https://bronzeowl.github.io/crystal-collector/
 
 ## Built With
 
